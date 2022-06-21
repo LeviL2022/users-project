@@ -1,6 +1,6 @@
-import User from "./User.js"
+//import User from "./User.js"
 import Admin from "./Admin.js"
-import Docente from "./Docente.js"
+//import Docente from "./Docente.js"
 
 //const novoUser = new User('Mariana', 'm@m.com', '2005/04/06')
 
